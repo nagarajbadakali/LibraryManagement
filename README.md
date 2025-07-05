@@ -14,7 +14,7 @@ A clean, structured, Object-Oriented Python CLI project for **Library Management
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 
 ## Usage
 
